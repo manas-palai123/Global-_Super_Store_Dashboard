@@ -5,3 +5,5 @@
 # Download-link-for-data
 
 [global_superstore_2016.xlsx](https://github.com/manas-palai123/Global-_Super_Store_Dashboard/files/10371897/global_superstore_2016.xlsx)
+
+Technology Used: Microsoft Power BI and Microsoft Excel
